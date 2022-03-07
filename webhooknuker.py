@@ -24,7 +24,7 @@ print(Fore.MAGENTA + Style.DIM + Style.BRIGHT + """
 """)
 print(Style.RESET_ALL)
 
-system("title " + '𝑫𝑩𝑶𝑿 𝓦𝓮𝓫𝓱𝓸𝓸𝓴 𝐂𝐡𝐞𝐜𝐤 - 𝐔𝐬𝐞𝐫: ' + f'[{user}]')
+system("title " + '𝑪𝒓𝒆𝒂𝒕𝒐𝒓: 𝐃𝐞𝐛𝐨𝐜𝐡𝐞𝐝#𝟒𝟒𝟎𝟒 - 𝑫𝑩𝑶𝑿 𝓦𝓮𝓫𝓱𝓸𝓸𝓴 𝐂𝐡𝐞𝐜𝐤 - 𝐔𝐬𝐞𝐫: ' + f'[{user}]')
 
 webhook = input(Fore.MAGENTA + Style.DIM + " [DB0X] URL: ")
 print(Style.RESET_ALL)
@@ -44,7 +44,7 @@ elif check.status_code == 200:
 
 os.system("cls")
 
-system("title " + '𝑫𝑩𝑶𝑿 𝓦𝓮𝓫𝓱𝓸𝓸𝓴 𝐊𝐢𝐥𝐥𝐞𝐫 - 𝐔𝐬𝐞𝐫: ' + f'[{user}]')
+system("title " + '𝑪𝒓𝒆𝒂𝒕𝒐𝒓: 𝐃𝐞𝐛𝐨𝐜𝐡𝐞𝐝#𝟒𝟒𝟎𝟒 - 𝑫𝑩𝑶𝑿 𝓦𝓮𝓫𝓱𝓸𝓸𝓴 𝐊𝐢𝐥𝐥𝐞𝐫 - 𝐔𝐬𝐞𝐫: ' + f'[{user}]')
 print(Fore.BLUE + Style.DIM + Style.BRIGHT + """
  __    __     _     _                 _            _ _ _           
 / / /\ \ \___| |__ | |__   ___   ___ | | __   /\ /(_) | | ___ _ __ 
