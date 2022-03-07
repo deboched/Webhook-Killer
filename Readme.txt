@@ -2,7 +2,7 @@ ______________________________
 
          _nnnn_                      
         dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Webhook Killer V1! |
+       @p~qp~~qMb    | Webhook Killer V1! created by Deboched#4404 |
        M|@||@) M|   _;..............'
        @,----.JM| -'
       JS^\__/  qKL
@@ -20,3 +20,7 @@ _)      \.___.,|     .'
 
 
 $ This tool makes it possible for you to check if a discord webhook is working or not, and also soon after you can delete it.
+
+$ created by Deboched!
+
+$ Stealer's Team #SST <3
