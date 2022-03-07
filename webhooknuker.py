@@ -34,7 +34,7 @@ if check.status_code == 404:
     print("")
     print(Fore.RED + Style.BRIGHT + "\n [DB0X] Webhook invalida!")
     print(Style.RESET_ALL)
-    time.sleep(5)
+    exit()
 elif check.status_code == 200:
     print("")
     print(Fore.GREEN + Style.BRIGHT + "\n [DB0X] Webhook valida!")
@@ -69,5 +69,6 @@ def delete():
         print("")
         print(Fore.RED + Style.BRIGHT + "\n [DB0X] Ocorreu uma falha ao destruir o webhook!")
         print(Style.RESET_ALL)
+        exit()
 
 delete()
